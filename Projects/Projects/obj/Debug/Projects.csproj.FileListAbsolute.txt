@@ -1,0 +1,12 @@
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.Form1.resources
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Projects\Projects\obj\Debug\Projects.Form3.resources

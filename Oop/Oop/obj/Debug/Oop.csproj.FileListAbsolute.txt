@@ -1,0 +1,11 @@
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\bin\Debug\Oop.exe.config
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\bin\Debug\Oop.exe
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\bin\Debug\Oop.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.Form1.resources
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.exe
+C:\Users\ozgur\OneDrive\Masaüstü\staj\Oop\Oop\obj\Debug\Oop.pdb
