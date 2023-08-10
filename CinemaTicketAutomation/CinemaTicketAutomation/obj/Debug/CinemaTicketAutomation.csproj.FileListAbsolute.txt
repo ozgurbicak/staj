@@ -1,0 +1,11 @@
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\bin\Debug\CinemaTicketAutomation.exe.config
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\bin\Debug\CinemaTicketAutomation.exe
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\bin\Debug\CinemaTicketAutomation.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.Form1.resources
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.exe
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.pdb
