@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CinemaTicketAutomation.exe" version="1.0.0.0" publicKeyToken="e8da47c4d92fc7e9" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CinemaTicketAutomation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CinemaTicketAutomation.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CinemaTicketAutomation.exe" size="30688">
+      <assemblyIdentity name="CinemaTicketAutomation" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LfyekJXoNe62lC1vmDmHrIV9OU7VOYZdmjf5o/q+LFY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CinemaTicketAutomation.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Pictures\gelecege_donus.jpg" size="42450">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>X9DJVFDKFZNSzD4iz4e8kLoBCQy50593TqTMlfTT/2w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Pictures\jumanji.jpg" size="10181">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EG81PCsYVmx+aZ4nKQ6IE2RCgJmyzbFBSOvOEcD/2J8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Pictures\nefesini_tut.jpg" size="71577">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HNtLGQDvBWSCLMw1N9anoVBx1zFikbQEKqoVQmM8alk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Pictures\üç_aptal.jpg" size="12862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lXADApiZDm86irbVGvgtP9mJ5fssoDfJKuOgGpRT2jE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Pictures\warcraft.jpg" size="347690">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ki2E5GgsHX5+DuYvESr/i/44lYfplN+1vG8A1Je4A8k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Pictures\yıldızlararası.jpg" size="35335">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Rp4C6vTFGhN09xyKgWr+AnFWViKEmlogcd9nizNGWoc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-6RF92PS\ozgur" issuerKeyHash="53c5a313e2e7aad35fcc6539e457594f1baa7231" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Grzvzkeb2PVP2Dt4V6nhj5clpe04oyIqclPsiO7+uHw=</DigestValue></Reference></SignedInfo><SignatureValue>ZPBHqCCJigPJg5aNsnEQhnSA8OpdJxcGrdUzc+HDCdp/iRnnKlipAL39ncWj28G19+29ymhjL2IEBoptpmj/QAsu0YuPkqoTgtiiQKsqypZnb1pXMoY3CDvQtExYp7qbUk7pjT6KrHXk5SOzmxzTB1WsxSPABJgrYsJXCotY6jA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tJvTfzyrTO8Qq3BV5VeuxDrPAHPBFfygvIJWHdPmVVYKo2iZzouvX0cfdo6GD9e7joJ5vlTbFJwY1bM38K4LBcTxEMX6bVW30ImPz5IgTB7tA+1HRABEKFu6RJDl6j8g3T1jiPDAfXDZZ+ORxKqN6wO0bPhFUBT55Mpu0kjBz6E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7cb8feee88ec53722a22a338eda525978fe1a957783bd84ff5d89b47ceefbc1a" Description="" Url=""><as:assemblyIdentity name="CinemaTicketAutomation.exe" version="1.0.0.0" publicKeyToken="e8da47c4d92fc7e9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-6RF92PS\ozgur</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>shFyYruh0DjoUxsTkkYFIGwPSEkIPblk/rV9mv/0nVo=</DigestValue></Reference></SignedInfo><SignatureValue>WvAEbVZZrnMpclwsNX+B+eF6fG/l3Gw1THy7RMXXcSpAzckPmP10+JmLg1HDxm0skIoNobyyWsWlKUoU+7Qwl9PxsakuJ2N4JNqwQm3QpMmsQP1IhwVrxw4QanFJRt+vW8AHwKfBARHVK55GF1CKE6PKypNyLWknC2GXI+iYt/g=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tJvTfzyrTO8Qq3BV5VeuxDrPAHPBFfygvIJWHdPmVVYKo2iZzouvX0cfdo6GD9e7joJ5vlTbFJwY1bM38K4LBcTxEMX6bVW30ImPz5IgTB7tA+1HRABEKFu6RJDl6j8g3T1jiPDAfXDZZ+ORxKqN6wO0bPhFUBT55Mpu0kjBz6E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQdkbmGJkoya5DsjSVDQktzzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYAUgBGADkAMgBQAFMAXABvAHoAZwB1AHIwHhcNMjMwODExMDc1MjA2WhcNMjQwODEwMTM1MjA2WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYAUgBGADkAMgBQAFMAXABvAHoAZwB1AHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALSb0388q0zvEKtwVeVXrsQ6zwBzwRX8oLyCVh3T5lVWCqNomc6Lr19HH3aOhg/Xu46Ceb5U2xScGNWzN/CuCwXE8RDF+m1Vt9CJj8+SIEwe7QPtR0QARChbukSQ5eo/IN09Y4jwwH1w2WfjkcSqjesDtGz4RVAU+eTKbtJIwc+hAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAnwgjSj5jsNfsNYKss0QAwqz7+iR8EZ8yPiAGqSCO/kaQWtqoVhuAUq1ArIqzQdvjXA94crsdtkTKOgZaSsur0vbbEAggLHhPZBCWnBjcQTS6I0brhGf8Hye0YjC/cGm/Nu4U60qjmYqhvSsngW1M7YwY0mfrl43V+Ibt5bLAs28=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
