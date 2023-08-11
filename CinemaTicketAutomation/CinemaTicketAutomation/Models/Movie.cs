@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CinemaTicketAutomation.Models
 {
-    public  class Movie: BaseClass
+    public  class Movie : BaseClass
     {
         public Movie()
         {
@@ -15,7 +15,7 @@ namespace CinemaTicketAutomation.Models
                 }
         public string picturePath { get; set; }    
         public string minute { get; set; }
-        public double price { get; set; }
+        public decimal price { get; set; }
         public  Category category { get; set; }
         public List<Session> sessions { get; set; }
         

@@ -9,3 +9,4 @@ C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutom
 C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.csproj.CoreCompileInputs.cache
 C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.exe
 C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\staj\CinemaTicketAutomation\CinemaTicketAutomation\obj\Debug\CinemaTicketAutomation.Form2.resources

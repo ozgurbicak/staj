@@ -19,10 +19,16 @@ namespace CinemaTicketAutomation
             InitializeComponent();
         }
         List<Movie> movies;
+        DateTime currentDate = DateTime.Now;
+        DateTime useDate;
+        Form2 form2;
         private void Form1_Load(object sender, EventArgs e)
         {
+            useDate = currentDate;
+            lblDate.Text = useDate.ToShortDateString();
             movies = Helper.CreateMovies();
             ListControls();
+            form2 = new Form2(movies,this);
         }
         private void ListControls()
         {
@@ -72,7 +78,41 @@ namespace CinemaTicketAutomation
         
         private void button_Click(object sender, EventArgs e)
         {
+            Button button = sender as Button;
+            int movieIndex = Convert.ToInt32(button.Tag);
+            string sessionTime = button.Text;
+            string sessionDate = lblDate.Text;
+            if (DateTime.Parse($"{sessionDate} {sessionTime}") < DateTime.Now)
+            {
+                MessageBox.Show("Seçilen seansı kaçırdınız. Başka seans seçebilirsiniz.");
+                return;
+            }
 
+            this.Hide();
+            form2.Show();
+            form2.ListDetail(movieIndex,sessionTime,sessionDate);
+        }
+
+        private void btnNext_Click(object sender, EventArgs e)
+        {
+            useDate = useDate.AddDays(1);
+            lblDate.Text = useDate.ToShortDateString();
+            btnPrevious.Enabled = true;
+            if(currentDate.AddDays(2)== useDate)
+            {
+                btnNext.Enabled = false;
+            }
+        }
+
+        private void btnPrevious_Click(object sender, EventArgs e)
+        {
+            useDate = useDate.AddDays(-1);
+            lblDate.Text = useDate.ToShortDateString();
+            btnNext.Enabled = true;
+            if(currentDate == useDate)
+            {
+                btnPrevious.Enabled = false; 
+            }
         }
     }
 }
